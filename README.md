@@ -1,4 +1,4 @@
-# hash_cracking_ctf
+# Hash_cracking_ctf
 ***
 <h1>Step-by-Step Exploitation Guide</h1>
 
